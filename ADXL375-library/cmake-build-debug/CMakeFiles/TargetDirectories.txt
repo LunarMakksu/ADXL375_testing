@@ -1,0 +1,3 @@
+/Users/maxbird/Documents/GitHub/SunrIde/ADXL375/ADXL375-testing/ADXL375-library/cmake-build-debug/CMakeFiles/ADXL375_library.dir
+/Users/maxbird/Documents/GitHub/SunrIde/ADXL375/ADXL375-testing/ADXL375-library/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maxbird/Documents/GitHub/SunrIde/ADXL375/ADXL375-testing/ADXL375-library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
